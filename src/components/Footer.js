@@ -77,7 +77,7 @@ const Footer = () => {
                 Back to Top
               </a>
               <a
-                href="mailto:rohanpoudel.com.np@gmail.com"
+                href="mailto:rohanpoudel545@gmail.com"
                 className="text-gray-600 hover:text-purple-600 transition-colors duration-300 text-sm"
               >
                 rohanpoudel545@gmail.com
